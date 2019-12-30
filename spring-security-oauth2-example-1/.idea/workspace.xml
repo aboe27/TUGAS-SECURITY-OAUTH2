@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce4efc23-91c4-48af-aeb3-86e43b99550f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="oauth: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="oauth: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="users: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VK09s20Ub4PYNMfyDBAm8X6w1w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringSecurityOauth2Example1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-oauth2-example-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.security.SpringSecurityOauth2Example1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringSecurityOauth2Example1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce4efc23-91c4-48af-aeb3-86e43b99550f" name="Default Changelist" comment="" />
+      <created>1576986330814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576986330814</updated>
+      <workItem from="1576986337950" duration="168000" />
+      <workItem from="1576986516455" duration="59000" />
+      <workItem from="1577433876071" duration="4039000" />
+      <workItem from="1577536861739" duration="618000" />
+      <workItem from="1577695856897" duration="1982000" />
+      <workItem from="1577698146020" duration="448000" />
+      <workItem from="1577698810164" duration="4507000" />
+      <workItem from="1577703416215" duration="10000" />
+      <workItem from="1577703510295" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="41" key="#Assign_Data_Sources" timestamp="1577435355289">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="41" key="#Assign_Data_Sources/0.0.1366.768@0.0.1366.768" timestamp="1577435355289" />
+    <state x="275" y="27" key="#Project_Structure" timestamp="1577695892023">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1577695892023" />
+    <state x="274" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577435066637">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577435066637" />
+    <state x="531" y="261" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577696213059">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="531" y="261" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1577696213059" />
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1577434054464" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1577701642266">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1577701642266" />
+    <state width="1323" height="208" key="GridCell.Tab.0.bottom" timestamp="1577703321192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577703321192" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577437928884" />
+    <state width="1323" height="208" key="GridCell.Tab.0.center" timestamp="1577703321192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577703321192" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577437928884" />
+    <state width="1323" height="208" key="GridCell.Tab.0.left" timestamp="1577703321192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577703321192" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577437928884" />
+    <state width="1323" height="208" key="GridCell.Tab.0.right" timestamp="1577703321192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577703321192" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577437928884" />
+    <state width="1323" height="208" key="GridCell.Tab.1.bottom" timestamp="1577703321193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577703321193" />
+    <state width="1323" height="192" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577437928885" />
+    <state width="1323" height="208" key="GridCell.Tab.1.center" timestamp="1577703321192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1577703321192" />
+    <state width="1323" height="192" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1577437928885" />
+    <state width="1323" height="208" key="GridCell.Tab.1.left" timestamp="1577703321192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1577703321192" />
+    <state width="1323" height="192" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1577437928884" />
+    <state width="1323" height="208" key="GridCell.Tab.1.right" timestamp="1577703321193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="208" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1577703321193" />
+    <state width="1323" height="192" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1577437928885" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1577434714499">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1577434714499" />
+  </component>
+</project>
